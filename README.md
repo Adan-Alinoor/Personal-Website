@@ -1,13 +1,13 @@
 # Getting Started
 
 ### here is my live link("https://personal-website-z7gs.vercel.app/")
-
-
 Install the dependencies and run the project
 ```
 npm install
 npm start
 ```
+
+
 
 Head over to https://vitejs.dev/ to learn more about configuring vite
 ## About Scrimba
